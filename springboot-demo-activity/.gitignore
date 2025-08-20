@@ -1,0 +1,11 @@
+*.class
+*.war
+*.ear
+.idea/
+*.p12
+*.log
+*.iml
+target/
+applog/
+generatorCode/
+.mvn
